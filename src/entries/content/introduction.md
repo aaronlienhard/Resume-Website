@@ -3,4 +3,4 @@ tags: introduction
 title: About Me
 ---
 
-I am a web developer with over 12 years of experience in the front-end and a special background in digital design. My focus is on creating engaging, accessible & performant interfaces for humans. I am currently looking for new challenges.
+I'm a third year Human Centered Design and Development student at Penn State University. I'm interested in Web Development, particularly Front End Development as well as UI/UX Design. I have also been self-studying Japanese since June 2020 and have passed a mock N1 JLPT (Japanese Language Proficiency Test) exam.

@@ -1,44 +1,47 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "name": "Aaron Lienhard",
+    "occupation": "Human Centered Design and Development Student",
+    "location": "State College, PA",
+    "avatar": "headshot.jpeg",
+    "pronouns": "he/him",
+    "email": "lienhardaaron@gmail.com",
+    "telephone": "570-657-7160",
+    "website": "",
     "skills": [
+        "Java",
+        "Python",
+        "PHP",
+        "SQL",
         "HTML",
         "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Javascript",
+        "UI Design"
     ],
     "languages": [
         {
             "name": "English",
-            "level": "native"
+            "level": "Native"
         },
         {
-            "name": "German",
-            "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
+            "name": "Japanese",
+            "level": "Intermediate (Self-Taught)"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@aaronlienhard",
+            "url": "https://github.com/aaronlienhard"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "Aaron Lienhard",
+            "url": "https://www.linkedin.com/in/aaron-lienhard/"
+        },
+        {
+            "name": "Google Drive Figma Portfolio",
+            "user": "Aaron Lienhard",
+            "url": "https://drive.google.com/drive/folders/16eASLDvCwttkFRnXt894vEH-lAI0K6u0?usp=sharing"
         }
     ]
 }
