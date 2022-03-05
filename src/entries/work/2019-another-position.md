@@ -1,10 +1,10 @@
 ---
-title: Intern
-organization: Microsoft
-organizationUrl: https://www.microsoft.com
-location: Redmond, CA
-start: 2019-02-18
-end: 2019-11-21
+title: Games Associate
+organization: Dorney Park & Wildwater Kingdom
+organizationUrl: https://www.dorneypark.com/
+location: Allentown, PA
+start: 2018-06-01
+end: 2018-08-01
 ---
 
-Ipsum a arcu cursus vitae congue. Arcu ac tortor dignissim convallis. Integer malesuada nunc vel risus commodo. Vitae turpis massa sed elementum. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum.
+This position promotes games and assists guests in the operation of various games. Ensures that every guest has a positive guest experience with courtesy and serves guests in a timely and efficient manner.

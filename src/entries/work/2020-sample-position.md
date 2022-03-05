@@ -1,9 +1,10 @@
 ---
-title: Senior Front-End Developer
-organization: Netlify
-organizationUrl: https://www.netlify.com
-location: San Francisco, CA
-start: 2020-03-14
+title: Customer Service Associate 
+organization: Wawa
+organizationUrl: https://www.wawa.com/
+location: Blakeslee, PA
+start: 2021-06-01
+end: 2021-07-01
 ---
 
-Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Gravida arcu ac tortor dignissim convallis aenean et. In massa tempor nec feugiat nisl. Sed blandit libero volutpat sed cras ornare arcu dui. Morbi leo urna molestie at. Sapien faucibus et molestie ac feugiat sed lectus.
+The Customer Service Associate works in support of the store management team to facilitate and perform a variety of tasks including customer service, food and beverage preparation, general housekeeping and other related functions

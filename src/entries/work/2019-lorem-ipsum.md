@@ -1,10 +1,10 @@
 ---
-title: Junior Developer
-organization: Mozilla
-organizationUrl: https://www.mozilla.org
-location: Mountain View, CA
-start: 2019-11-30
-end: 2020-03-14
+title: Game Advisor
+organization: GameStop
+organizationUrl: https://www.gamestop.com
+location: Lehighton, PA
+start: 2019-06-01
+end: 2019-08-01
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Sit amet consectetur adipiscing elit.
+A GameStop game advisor provides exceptional and efficient customer services to patrons throughout the store. Customers look to GameStop game advisors for information on the electronic gaming industry, including popular titles and consoles. A game advisor needs to possess a passion for video games from every genre.
